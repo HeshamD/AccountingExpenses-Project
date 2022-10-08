@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AccountingExpenses-Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AccountingExpenses_Project_jar</output-path>
+    <root id="archive" name="AccountingExpenses-Project.jar">
+      <element id="module-output" name="AccountingExpenses-Project" />
+    </root>
+  </artifact>
+</component>
